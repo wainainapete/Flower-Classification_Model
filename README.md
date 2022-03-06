@@ -1,4 +1,4 @@
-# Flower-Classification_Model-
+# Flower-Classification_Model
 
 
 ![FLOWER DETECTION](https://user-images.githubusercontent.com/48982403/156928443-603bcb22-8ec0-467a-9524-5ddfa2e7e96b.jpg)
